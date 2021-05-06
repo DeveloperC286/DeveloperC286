@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-This GitHub account is just so I can upload to crates.io, check out all my open source projects at https://gitlab.com/DeveloperC!
+This GitHub account is so I can contribute to the Rust community, to see my open source projects visit my GitLab profile at https://gitlab.com/DeveloperC.
